@@ -1,0 +1,6 @@
+brew 'ack'
+brew 'freetds'
+brew 'tmux'
+brew 'tree'
+brew 'wget'
+cask 'slack'
