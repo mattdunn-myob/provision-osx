@@ -1,6 +1,10 @@
 brew 'ack'
+brew 'ansible'
 brew 'freetds'
 brew 'tmux'
 brew 'tree'
 brew 'wget'
+
+cask 'gitx'
 cask 'slack'
+cask 'sublime-text'
