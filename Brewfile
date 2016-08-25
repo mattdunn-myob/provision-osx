@@ -6,5 +6,6 @@ brew 'tree'
 brew 'wget'
 
 cask 'gitx'
+cask 'shiftit'
 cask 'slack'
 cask 'sublime-text'
