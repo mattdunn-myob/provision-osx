@@ -10,3 +10,4 @@ plugins=(git ruby rails bundler brew cp tmux docker rvm)
 source $ZSH/oh-my-zsh.sh
 
 [[ -f ~/.essentials_profile ]] && source ~/.essentials_profile
+[ -s "~/.scm_breeze/scm_breeze.sh" ] && source "~/.scm_breeze/scm_breeze.sh"
