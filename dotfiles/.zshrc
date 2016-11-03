@@ -2,6 +2,9 @@ export PATH=/usr/local/bin:$PATH
 export ZSH=$HOME/.oh-my-zsh
 export TERM="xterm-256color"
 
+export NVM_DIR="$HOME/.nvm"
+. "/usr/local/opt/nvm/nvm.sh"
+
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes for nore themes
 ZSH_THEME="robbyrussell"
 HIST_STAMPS="dd.mm.yyyy"

@@ -6,6 +6,7 @@ brew 'tmux'
 brew 'tree'
 brew 'wget'
 brew 'maven'
+brew 'nvm'
 
 cask 'firefox'
 cask 'gitx'
