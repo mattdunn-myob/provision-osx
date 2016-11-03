@@ -5,6 +5,7 @@ brew 'postgresql'
 brew 'tmux'
 brew 'tree'
 brew 'wget'
+brew 'maven'
 
 cask 'firefox'
 cask 'gitx'
