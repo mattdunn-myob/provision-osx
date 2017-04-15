@@ -20,5 +20,3 @@ source $ZSH/oh-my-zsh.sh
 
 [[ -f ~/.essentials_profile ]] && source ~/.essentials_profile
 [ -s "~/.scm_breeze/scm_breeze.sh" ] && source "~/.scm_breeze/scm_breeze.sh"
-
-alias elm='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID -p 8000:8000 codesimple/elm:0.18'
