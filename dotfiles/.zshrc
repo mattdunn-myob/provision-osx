@@ -1,4 +1,10 @@
 export PATH=/usr/local/bin:$PATH
+export PATH="/usr/local/opt/openssl/bin:$PATH"
+export PATH="/usr/local/opt/tomcat@7/bin:$PATH"
+export PATH="/usr/local/opt/sqlite/bin:$PATH"
+export PATH="/usr/local/opt/icu4c/bin:$PATH"
+export PATH="/usr/local/opt/icu4c/sbin:$PATH"
+
 export ZSH=$HOME/.oh-my-zsh
 export TERM="xterm-256color"
 
