@@ -27,3 +27,6 @@ source $ZSH/oh-my-zsh.sh
 # tabtab source for sls package
 # uninstall by removing these lines or running `tabtab uninstall sls`
 [[ -f /usr/local/lib/node_modules/serverless/node_modules/tabtab/.completions/sls.zsh ]] && . /usr/local/lib/node_modules/serverless/node_modules/tabtab/.completions/sls.zsh
+
+# initialise rbenv
+eval "$(rbenv init -)"
