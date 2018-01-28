@@ -7,6 +7,7 @@ brew 'tree'
 brew 'wget'
 brew 'maven'
 brew 'nvm'
+brew 'kubectl'
 
 cask 'firefox'
 cask 'gitx'

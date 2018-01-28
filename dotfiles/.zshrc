@@ -30,3 +30,6 @@ source $ZSH/oh-my-zsh.sh
 
 # initialise rbenv
 eval "$(rbenv init -)"
+
+# initialise kubectl helper
+source $HOME/.kuberc
