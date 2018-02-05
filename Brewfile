@@ -8,6 +8,7 @@ brew 'wget'
 brew 'maven'
 brew 'nvm'
 brew 'kubectl'
+brew 'jq'
 
 cask 'firefox'
 cask 'gitx'
