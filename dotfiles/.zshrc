@@ -34,3 +34,7 @@ eval "$(rbenv init -)"
 
 # initialise kubectl helper
 source $HOME/.kuberc
+
+# initialise auto cd
+setopt auto_cd
+cdpath=($HOME/myob)
