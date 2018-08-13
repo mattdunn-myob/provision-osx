@@ -15,7 +15,7 @@ export NVM_DIR="$HOME/.nvm"
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes for nore themes
 ZSH_THEME="robbyrussell"
 HIST_STAMPS="dd.mm.yyyy"
-plugins=(git ruby rails bundler brew cp tmux docker)
+plugins=(git ruby rails bundler brew cp tmux docker zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
