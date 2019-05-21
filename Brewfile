@@ -1,3 +1,5 @@
+cask 'adoptopenjdk'
+
 brew 'ack'
 brew 'git'
 brew 'awscli'
