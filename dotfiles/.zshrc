@@ -15,12 +15,11 @@ export NVM_DIR="$HOME/.nvm"
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes for nore themes
 ZSH_THEME="robbyrussell"
 HIST_STAMPS="dd.mm.yyyy"
-plugins=(git ruby rails bundler brew cp tmux docker zsh-autosuggestions)
+plugins=(git ruby bundler cp docker)
 
 source $ZSH/oh-my-zsh.sh
 
-[[ -f ~/.essentials_profile ]] && source ~/.essentials_profile
-[ -s "~/.scm_breeze/scm_breeze.sh" ] && source "~/.scm_breeze/scm_breeze.sh"
+# [[ -f ~/.essentials_profile ]] && source ~/.essentials_profile
 
 # tabtab source for serverless package
 # uninstall by removing these lines or running `tabtab uninstall serverless`
