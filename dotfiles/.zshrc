@@ -5,6 +5,7 @@ export PATH="/usr/local/opt/sqlite/bin:$PATH"
 export PATH="/usr/local/opt/icu4c/bin:$PATH"
 export PATH="/usr/local/opt/icu4c/sbin:$PATH"
 export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin/:$PATH"
+export PATH="/usr/local/opt/postgresql@9.6/bin:$PATH"
 
 export ZSH=$HOME/.oh-my-zsh
 export TERM="xterm-256color"
